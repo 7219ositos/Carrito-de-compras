@@ -633,9 +633,6 @@ button {
     .products__title{
         margin: 0 auto var(--space-1);
     }
-    .cart__title {
-        font-size: 0.7rem;
-    }
 }
 
 .btn--darkmode {
